@@ -1,0 +1,13 @@
+
+"title" = "Título";
+"info" = "Información";
+"to_buy" = "Comprar";
+"hard_cover" = "Tapa dura";
+"digital" = "Digital";
+"paperback" = "Tapa blanda";
+"nav_bar_title" = "Ejemplo de XIBLocalizable";
+"left_bar_item" = "Item izdo.";
+"right_bar_item" = "Item dcho.";
+"tab_1" = "Tab Uno";
+"tab_2" = "Tab Dos";
+"delivery_message" = "Mensaje para el repartidor";

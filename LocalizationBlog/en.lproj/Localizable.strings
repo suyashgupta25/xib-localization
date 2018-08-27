@@ -1,0 +1,13 @@
+
+"title" = "Title";
+"info" = "Information";
+"to_buy" = "Buy";
+"hard_cover" = "Hard Cover";
+"digital" = "Digital";
+"paperback" = "Paperback";
+"nav_bar_title" = "XIBLocalizable Example";
+"left_bar_item" = "Left item";
+"right_bar_item" = "Right item";
+"tab_1" = "Tab One";
+"tab_2" = "Tab Two";
+"delivery_message" = "Message to the delivery man";
